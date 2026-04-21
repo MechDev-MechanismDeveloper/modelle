@@ -8,8 +8,7 @@ Weitere Informationen [https://www.mechdev.de](https://www.mechdev.de)
 
 ## Kinematik- / Mechanismen- und Getriebe-Modelle
 
-In diesem Repository werden die MechDev Dateien (PMD Format) zu den Mechanismen, Kinematiken und Getrieben aus den Blogposts unter
-[https://www.mechdev.de/index.php/blog-de](https://www.mechdev.de/index.php/blog-de) veröffentlicht. 
+In diesem Repository werden die MechDev Dateien (PMD Format) zu den Mechanismen, Kinematiken und Getrieben aus den [Blogposts](https://www.mechdev.de/index.php/blog-de) veröffentlicht. 
 
 | Dateiname | Beschreibung | Getriebeart | Anwendung / Branche |Blog Beitrag |
 |-----------|--------------|--------------|--------------|--------------|
@@ -38,8 +37,7 @@ More Information [https://www.mechdev.de](https://www.mechdev.de/index.php/en/)
 
 ## Kinematics and Mechanism Models
 
-This repository contains the MechDev Files (PMD format) for the mechanisms and kinematics featured in the blog posts at
-[https://www.mechdev.de/index.php/en/mechdev-blog-en](https://www.mechdev.de/index.php/en/mechdev-blog-en). 
+This repository contains the MechDev Files (PMD format) for the mechanisms and kinematics featured in the [blog posts](https://www.mechdev.de/index.php/en/mechdev-blog-en). 
 
 
 | File Name                       | Description                                     | Gear Type         | Application / Industry                                                                                                                     | Blog Post                                                                                                 |
