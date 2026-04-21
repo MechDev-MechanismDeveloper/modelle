@@ -12,7 +12,7 @@ In diesem Repository werden die MechDev Dateien (PMD Format) zu den Mechanismen,
 
 | Dateiname | Beschreibung | Getriebeart | Anwendung / Branche |Blog Beitrag |
 |-----------|--------------|--------------|--------------|--------------|
-| 210_Nahkopf.pmd | Bewegungsablauf eines Nähkopfs | Koppelgetriebe | Textiltechnik, Textilmaschinen, Produktion, Automatisierung, Industriemaschinen | [Präzision in Bewegung: Digitale Entwicklung eines Nähkopf-Mechanismus mit MechDev](https://www.mechdev.de/index.php/blog-de/80-blog-mechdev-naehkopf-de) |
+| [210_Nahkopf.pmd](210_Nahkopf.pmd) | Bewegungsablauf eines Nähkopfs | Koppelgetriebe | Textiltechnik, Textilmaschinen, Produktion, Automatisierung, Industriemaschinen | [Präzision in Bewegung: Digitale Entwicklung eines Nähkopf-Mechanismus mit MechDev](https://www.mechdev.de/index.php/blog-de/80-blog-mechdev-naehkopf-de) |
 | Doppelkurbel.pmd | Doppelkurbel - Vierglied / Viergelenk | Koppelgetriebe | Maschinenbau, Bewegungsübertragung, Kinematik | [Vom Vierglied zur Doppelkurbel – Getriebeauslegung und Mechanismendesign mit MechDev](https://www.mechdev.de/index.php/blog-de/54-blog-mechdev-4glied-de) |
 | Doppelschwinge.pmd | Doppelschwinge - Vierglied / Viergelenk | Koppelgetriebe | Maschinenbau, Bewegungsübertragung, Kinematik | [Vom Vierglied zur Doppelkurbel – Getriebeauslegung und Mechanismendesign mit MechDev](https://www.mechdev.de/index.php/blog-de/54-blog-mechdev-4glied-de) |
 | Kurbelschwinge1.pmd | Kurbelschwinge - Vierglied / Viergelenk | Koppelgetriebe | Maschinenbau, Bewegungsübertragung, Kinematik | [Vom Vierglied zur Doppelkurbel – Getriebeauslegung und Mechanismendesign mit MechDev](https://www.mechdev.de/index.php/blog-de/54-blog-mechdev-4glied-de) |
