@@ -28,7 +28,7 @@ More Information [https://www.mechdev.de](https://www.mechdev.de/index.php/en/)
 ## Kinematics and Mechanism Models
 
 This repository contains the MechDev Files (PMD format) for the mechanisms and kinematics featured in the blog posts at
-[https://www.mechdev.de/index.php/blog-de](https://www.mechdev.de/index.php/blog-de). 
+[https://www.mechdev.de/index.php/en/mechdev-blog-en](https://www.mechdev.de/index.php/en/mechdev-blog-en). 
 
 
 | File name | Description | Blog post |
